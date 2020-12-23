@@ -9,6 +9,7 @@ public class ProductDemo {
         product.setRegularPrice(300);
         product.setDiscount(20);
         return -product.getDiscount()/100* product.getRegularPrice()+ product.getRegularPrice();
+
             }
 
 }

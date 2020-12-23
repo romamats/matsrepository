@@ -1,0 +1,76 @@
+
+)bean.Product#toString()Ljava/lang/String;e
+[C:/Users/rio/matsrepository/by.matsulevich/homework 3/task5/src/main/java/bean/Product.java& &("1*µ
+1e
+[C:/Users/rio/matsrepository/by.matsulevich/homework 3/task5/src/main/java/bean/Product.java' '(¶
+£
+e
+[C:/Users/rio/matsrepository/by.matsulevich/homework 3/task5/src/main/java/bean/Product.java' ((
+%0java.lang.String"__concat*
+
+Product{*
+
+name='§
+°
+e
+[C:/Users/rio/matsrepository/by.matsulevich/homework 3/task5/src/main/java/bean/Product.java( ((
+%1java.lang.String"__id**
+bean.Product"
+name¿
+Ω
+e
+[C:/Users/rio/matsrepository/by.matsulevich/homework 3/task5/src/main/java/bean/Product.java' ((
+%2java.lang.String"__concat*
+
+%0java.lang.String*
+
+%1java.lang.StringÆ
+´
+e
+[C:/Users/rio/matsrepository/by.matsulevich/homework 3/task5/src/main/java/bean/Product.java' ((&
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+""¥
+±
+e
+[C:/Users/rio/matsrepository/by.matsulevich/homework 3/task5/src/main/java/bean/Product.java' )(
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+
+, price=Æ
+´
+e
+[C:/Users/rio/matsrepository/by.matsulevich/homework 3/task5/src/main/java/bean/Product.java' )()
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+""∂
+≥
+e
+[C:/Users/rio/matsrepository/by.matsulevich/homework 3/task5/src/main/java/bean/Product.java' *(
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+
+, discont=Æ
+´
+e
+[C:/Users/rio/matsrepository/by.matsulevich/homework 3/task5/src/main/java/bean/Product.java' *('
+%7java.lang.String"__concat*
+
+%6java.lang.String*
+""Æ
+´
+e
+[C:/Users/rio/matsrepository/by.matsulevich/homework 3/task5/src/main/java/bean/Product.java' +(
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+"""Å
+e
+[C:/Users/rio/matsrepository/by.matsulevich/homework 3/task5/src/main/java/bean/Product.java' +(
+
+%8java.lang.StringB
+bean.Product

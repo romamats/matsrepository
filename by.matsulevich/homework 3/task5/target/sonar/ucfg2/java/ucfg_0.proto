@@ -1,0 +1,70 @@
+
+"service.ProductDemo#actualPrice()Dl
+bC:/Users/rio/matsrepository/by.matsulevich/homework 3/task5/src/main/java/service/ProductDemo.java ("1*æ
+1l
+bC:/Users/rio/matsrepository/by.matsulevich/homework 3/task5/src/main/java/service/ProductDemo.java	 	(±
+®
+l
+bC:/Users/rio/matsrepository/by.matsulevich/homework 3/task5/src/main/java/service/ProductDemo.java	 	(
+%0bean.Product"__id*$*"
+service.ProductDemo"	
+productÐÍ
+l
+bC:/Users/rio/matsrepository/by.matsulevich/homework 3/task5/src/main/java/service/ProductDemo.java	 	($
+
+%1void" bean.Product#setRegularPrice(D)V*
+
+%0bean.Product*2¬2setRegularPrice(D)±
+®
+l
+bC:/Users/rio/matsrepository/by.matsulevich/homework 3/task5/src/main/java/service/ProductDemo.java
+ 
+(
+%2bean.Product"__id*$*"
+service.ProductDemo"	
+productÇÄ
+l
+bC:/Users/rio/matsrepository/by.matsulevich/homework 3/task5/src/main/java/service/ProductDemo.java
+ 
+(
+
+%3void"bean.Product#setDiscount(D)V*
+
+%2bean.Product*22setDiscount(D)±
+®
+l
+bC:/Users/rio/matsrepository/by.matsulevich/homework 3/task5/src/main/java/service/ProductDemo.java (
+%4bean.Product"__id*$*"
+service.ProductDemo"	
+productÁ¾
+l
+bC:/Users/rio/matsrepository/by.matsulevich/homework 3/task5/src/main/java/service/ProductDemo.java (%
+%5double"bean.Product#getDiscount()D*
+
+%4bean.Product2getDiscount()±
+®
+l
+bC:/Users/rio/matsrepository/by.matsulevich/homework 3/task5/src/main/java/service/ProductDemo.java+ (2
+%6bean.Product"__id*$*"
+service.ProductDemo"	
+productÉÆ
+l
+bC:/Users/rio/matsrepository/by.matsulevich/homework 3/task5/src/main/java/service/ProductDemo.java+ (D
+%7double"bean.Product#getRegularPrice()D*
+
+%6bean.Product2getRegularPrice()±
+®
+l
+bC:/Users/rio/matsrepository/by.matsulevich/homework 3/task5/src/main/java/service/ProductDemo.javaF (M
+%8bean.Product"__id*$*"
+service.ProductDemo"	
+productÉÆ
+l
+bC:/Users/rio/matsrepository/by.matsulevich/homework 3/task5/src/main/java/service/ProductDemo.javaF (_
+%9double"bean.Product#getRegularPrice()D*
+
+%8bean.Product2getRegularPrice()"v
+l
+bC:/Users/rio/matsrepository/by.matsulevich/homework 3/task5/src/main/java/service/ProductDemo.java (`
+""B
+service.ProductDemo

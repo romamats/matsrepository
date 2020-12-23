@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="2" failures="0" name="bean.SignComparatorTest" time="0.013" errors="0" skipped="0">
+  <properties>
+    <property name="java.vendor" value="AdoptOpenJDK"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.runtime.version" value="11.0.9+11"/>
+    <property name="user.name" value="rio"/>
+    <property name="java.compiler" value="j9jit29"/>
+    <property name="os.encoding" value="UTF8"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="com.ibm.util.extralibs.properties" value=""/>
+    <property name="com.ibm.jcl.checkClassPath" value=""/>
+    <property name="user.language" value="ru"/>
+    <property name="com.ibm.oti.vm.bootstrap.library.path" value="C:\Program Files\AdoptOpenJDK\jdk-11.0.9.11-openj9\bin\compressedrefs;C:\Program Files\AdoptOpenJDK\jdk-11.0.9.11-openj9\bin"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\AdoptOpenJDK\jdk-11.0.9.11-openj9\bin\compressedrefs;C:\Program Files\AdoptOpenJDK\jdk-11.0.9.11-openj9\bin"/>
+    <property name="classworlds.conf" value="D:\по java вопросам\apache\apache-maven-3.6.3\bin\..\bin\m2.conf"/>
+    <property name="jdk.extensions.version" value="11.0.9.0"/>
+    <property name="java.version" value="11.0.9"/>
+    <property name="user.timezone" value="GMT+03:00"/>
+    <property name="com.ibm.system.agent.path" value="C:\Program Files\AdoptOpenJDK\jdk-11.0.9.11-openj9\bin"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="com.ibm.oti.vm.library.version" value="29"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="maven.conf" value="D:\по java вопросам\apache\apache-maven-3.6.3\bin\../conf"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="user.country" value="RU"/>
+    <property name="java.home" value="C:\Program Files\AdoptOpenJDK\jdk-11.0.9.11-openj9"/>
+    <property name="java.vm.info" value="JRE 11 Windows 7 amd64-64-Bit Compressed References 20201022_795 (JIT enabled, AOT enabled)
+OpenJ9   - 0394ef754
+OMR      - 582366ae5
+JCL      - 3b09cfd7e9 based on jdk-11.0.9+11"/>
+    <property name="os.version" value="6.1"/>
+    <property name="java.awt.fonts" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="openj9-0.23.0"/>
+    <property name="user.variant" value=""/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="jdk.extensions.name" value="Extensions for OpenJDK for Eclipse OpenJ9"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="ibm.signalhandling.sigint" value="true"/>
+    <property name="user.home" value="C:\Users\rio"/>
+    <property name="com.ibm.cpu.endian" value="little"/>
+    <property name="java.version.date" value="2020-10-20"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="ibm.signalhandling.sigchain" value="true"/>
+    <property name="library.jansi.path" value="D:\по java вопросам\apache\apache-maven-3.6.3\bin\..\lib\jansi-native"/>
+    <property name="java.library.path" value="C:\Program Files\AdoptOpenJDK\jdk-11.0.9.11-openj9\bin\compressedrefs;C:\Program Files\AdoptOpenJDK\jdk-11.0.9.11-openj9\bin;C:\Windows\system32;C:\Windows;C:\Program Files\AdoptOpenJDK\jdk-8.0.272.10-hotspot\bin;C:\Program Files\AdoptOpenJDK\jdk-11.0.9.11-openj9\bin;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\QuickTime\QTSystem\;D:\по java вопросам\Git\cmd;D:\по java вопросам\apache\apache-maven-3.6.3\bin;."/>
+    <property name="java.vendor.url" value="https://adoptopenjdk.net/"/>
+    <property name="java.vm.vendor" value="Eclipse OpenJ9"/>
+    <property name="java.fullversion" value="11.0.9+11
+JRE 11 Windows 7 amd64-64-Bit Compressed References 20201022_795 (JIT enabled, AOT enabled)
+OpenJ9   - 0394ef754
+OMR      - 582366ae5
+JCL      - 3b09cfd7e9 based on jdk-11.0.9+11"/>
+    <property name="maven.home" value="D:\по java вопросам\apache\apache-maven-3.6.3\bin\.."/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher verify sonar:sonar"/>
+    <property name="java.class.path" value="D:\по java вопросам\apache\apache-maven-3.6.3\bin\..\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.io.tmpdir" value="C:\Windows\TEMP\"/>
+    <property name="java.vendor.url.bug" value="https://github.com/AdoptOpenJDK/openjdk-support/issues"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\rio\matsrepository\by.matsulevich\homework4\task1_SignComparator"/>
+    <property name="ibm.system.encoding" value="Cp1251"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="ibm.signalhandling.rs" value="false"/>
+    <property name="user.dir" value="C:\Users\rio\matsrepository\by.matsulevich\homework4\task1_SignComparator"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.name" value="Eclipse OpenJ9 VM"/>
+    <property name="com.ibm.oti.shared.enabled" value="false"/>
+    <property name="com.ibm.vm.bitmode" value="64"/>
+    <property name="file.encoding" value="Cp1251"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="com.ibm.oti.configuration" value="scar"/>
+    <property name="java.vendor.version" value="AdoptOpenJDK"/>
+  </properties>
+  <testcase classname="bean.SignComparatorTest" name="numbtype" time="0.012"/>
+  <testcase classname="bean.SignComparatorTest" name="numbtype2" time="0.001"/>
+</testsuite>
