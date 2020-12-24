@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="/fragment.java">
           <value>
             <set />
@@ -19,6 +24,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/by.matsulevich/homework4/task1_SignComparator/src/test/java/bean/SignComparatorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/by.matsulevich/homework4/task2_Stock/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/by.matsulevich/homework4/task2_Stock/src/main/java/bean/Stock.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/by.matsulevich/homework4/task2_Stock/src/main/java/service/NewUpdatePrice.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/by.matsulevich/homework4/task2_Stock/src/test/java/bean/StockTest.java">
           <value>
             <set />
           </value>
