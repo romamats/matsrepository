@@ -1,7 +1,0 @@
-organization=romamats
-projectKey=romamats_matsrepository
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.15878
-dashboardUrl=https://sonarcloud.io/dashboard?id=romamats_matsrepository
-ceTaskId=AXaRrdqR0CVG157Sg2QN
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXaRrdqR0CVG157Sg2QN
